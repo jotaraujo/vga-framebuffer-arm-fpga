@@ -3,6 +3,7 @@
 **Projeto de Bloco — Sistemas Digitais Embarcados**
 Instituto INFNET — Escola Superior de Tecnologia — Graduação em Engenharia de Software
 Turma: 26E2\_2 | Aluno: João Paulo Fonseca de Araújo | `joao.paraujo@al.infnet.edu.br`
+Link do repositório: https://github.com/jotaraujo/vga-framebuffer-arm-fpga
 
 \---
 
@@ -391,5 +392,5 @@ gtkwave tb\\\_color\\\_selector.vcd
 
 \---
 
-*Projeto desenvolvido para a disciplina Sistemas Digitais Embarcados — Instituto INFNET, 2025.*
+*Projeto desenvolvido para a disciplina Sistemas Digitais Embarcados — Instituto INFNET, 2026.*
 
